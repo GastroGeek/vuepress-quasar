@@ -1,0 +1,13 @@
+{
+  "name": "vuepress-quasar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev"
+  },
+  "devDependencies": {
+    "@quasar/extras": "^1.3.2",
+    "quasar": "^1.2.2"
+  }
+}
